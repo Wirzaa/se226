@@ -1,0 +1,6 @@
+Car, C001, Skoda Superb, 2024, Gasoline, 4
+Car, C002, Toyota Corolla, 2018, Hybrid, 4
+Truck, T001, Mercedes Actros, 2021, 19000, 2
+Truck, T002, Ford F-150, 2024, 1500, 2
+Motorcycle, M001, Kawasaki Ninja400, 2021, 399, Sport
+Motorcycle, M002, Harley Davidson Iron833, 2019, 833, Cruiser
